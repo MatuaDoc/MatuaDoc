@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MatuaDoc
-- 👀 I’m interested in using Swift for secondary school education
-- 📫 Reach me on [Twitter](twitter.com/MatuaDoc)
+- 👀 I’m interested in using Python and Swift for secondary school education
+- 📫 I make content for [my school](onsow.school.nz)
